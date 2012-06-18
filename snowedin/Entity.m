@@ -13,7 +13,7 @@ static NSMutableArray *_allEntities;
 @implementation Entity
 
 + (void) reset {
-    _allEntities = [[NSMutableArray array] retain]; // TOOD: release in dealloc.
+    _allEntities = [[NSMutableArray array] retain];
 }
 
 + (Entity*) makeAt:(CGPoint)gridPos withType:(tileType)type {
