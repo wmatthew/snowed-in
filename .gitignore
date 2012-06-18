@@ -1,0 +1,27 @@
+# We're Snowed In!
+# Git ignore file
+
+#########################
+# Partially edited files
+*.*~
+
+#########################
+# OS generated files
+*.DS_Store*
+*Borealis2/.DS_Store*
+
+#########################
+# Xcode
+*.swp
+*~.nib
+build/
+*.pbxuser
+*.perspective
+*.perspectivev3
+xcuserdata
+*DerivedData*
+
+#########################
+# Matthew Stuff Stuff
+*mwignore*
+
