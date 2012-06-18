@@ -5,6 +5,6 @@
       location = "group:../../SquidLib/SquidLib 1.0/SquidLib.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:SnowedIn source/Snowed In!.xcodeproj">
+      location = "group:snowedin/snowedin.xcodeproj">
    </FileRef>
 </Workspace>
