@@ -1,0 +1,8 @@
+We're Snowed In! License
+
+Copyright (c) 2012 Matthew Webber.
+All rights reserved.
+
+You may not redistribute, modify, or reuse this code for any reason,
+commercial or non-commercial, without specific prior written
+permission.
