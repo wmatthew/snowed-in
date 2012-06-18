@@ -1,0 +1,19 @@
+###
+# Title: Navigating
+# Level: 103
+# Hard:  0
+# Text1: You can't push two or more blocks in a row.
+# Text2: Push the block on the left to get through.
+# ~ Comments ~
+#
+|___AXXXX|
+|____XXXX|
+|___.XXXX|
+|....XXXX|
+|_..._.._|
+|___.____|
+|___..___|
+|___..B_.|
+# Par:   swwwsSSSeeEEEEssw
+# Best:  swwwsSSSeeEEEss
+###

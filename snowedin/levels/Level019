@@ -1,0 +1,15 @@
+###
+# Title: Zipper
+# Level: 019
+# Hard:  6
+# ~ Comments ~
+# TODO: Par solution has obvious flaws (backtracking)
+|__bXX|
+|_._._|
+|_X_._|
+|_._X_|
+|@X_A_|
+|___XX|
+# Par:   wnnnWnwSSSsNNNeesssnWeseennnWWWesssswwnnNssseennseennWesswwnNenWWesssswwnnnnnEwssssseennnnn
+# Best:  wnnnWnwSSSsNNNeessWeseennnWWWeeesWesswwswwnnNssseennNenWWesssswwnnnnnEwssssseennnnn
+###

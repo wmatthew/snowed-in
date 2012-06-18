@@ -1,0 +1,20 @@
+###
+# Title: Corrosion
+# Level: 095
+# Hard:  6
+# ~ Comments ~
+# TODO: Par solution here is terrible.
+#-----
+|XX__XXXX|
+|___@_XXX|
+|_._.._XX|
+|_XX_.._X|
+|_XXX_.._|
+|_XXXX_.@|
+|_XXXXX_X|
+|A______X|
+|XXXXXX_X|
+|XXXXXXbX|
+# Par:   nnnnnneeesnSESESESSSnneWNWNWeseseWNWNWnwwnwwsneewwsneeseeseseseWeWnwnwnwnSESESEwnwnwnSESESnwnwwnwwsssssseeeeeenneWenWesweWsswwwwwwnnnnnneeeSESnwnwwwsssssseeeeeenneWenwWeeswNseWsswwwwwwnnnnnneeesnSEwnSEwnSEwnSnesnwsEwnwwwsssssseeeeeenneWenWesweWnnwWeesssswwwwwwnnnnnneeesnewsnwsWenesneSWWenSnesesesseWenwSSnnnwSeseWenwSnwnnwWsEneSSeseWssss
+# Best:  nnnnnneeesnSESESESSSnneWNWNWeseseWNWNWnwnSESESEwnwnwnSESESnwnwwnwwsssssseeeeeenneWenWesweWsswwwwwwnnnnnneeeSESnwnwwwsssssseeeeeennnWeseWNsenWesweWnnwWeesssswwwwwwnnnnnneesWenesneSWWenSnesesesseWenwSSnnnwSeseWenwSnnwnwWsEneSSeseWssss
+###

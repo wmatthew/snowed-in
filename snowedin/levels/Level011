@@ -1,0 +1,19 @@
+###
+# Title: Checkers
+# Level: 011
+# Hard:  5
+# ~ Comments ~
+# Time consuming.
+|_._._._._.|
+|.A._._._._|
+|_.@._._._.|
+|._._._._._|
+|_._._._._.|
+|._._._._._|
+|_._._._._.|
+|._._._._X_|
+|_._._._XX.|
+|._._._._.B|
+# Par:   SesEsSeSeSeSnwnwnwnWsWennwSnenwwSSSeSeeseseseeEwwwnwnwnwwnwnnneeeNeEsEsSeSeNwwnnwnwwsssEEEEwwweNswwnwnEEweNswwnsNEwsNEEneSSSWeeseEwwnwwsEEwnwswwnEEseNwwwneeeEEssEneSnwwnnESSesWnwnwwwwwseeeeseseesSSnnnwwnwwwwwnnwwssseseeseseseeee
+# Best:  SesEsSeSeSeSnwnwnwnWsWennwSnenwwSSSeSeeseseseeEwwwnwnwnwwnwnnneeeNeEsEsSeSeNwwnnwnwwsssEEEEwwNswwnnwEENswwnsNEwsNEEneSSSWeeseEwwnwwsEEwwwwnEEseNwwwneeeEEssEneSwwnnnESSesWnnwwwwwwsseeeeeseesSSnnnwwnwwwwwnnwwssseseeseseseeee
+###

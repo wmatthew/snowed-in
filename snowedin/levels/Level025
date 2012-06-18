@@ -1,0 +1,18 @@
+###
+# Title: Tour
+# Level: 025
+# Hard:  4
+# ~ Comments ~
+# Hmm, is par solution too bad?
+|XXXXXXb_.|
+|XXXXXX_X.|
+|XXXX.._..|
+|...X.X.XX|
+|A.@.__@XX|
+|.X.X.XXXX|
+|.._..XXXX|
+
+# Par:   EeEwsnSnweWenwwssseeeennEensNsWeWWWwEwnwwssseeeennnneeeennWesswwSsNsNNNsssWeWWWwEwnwwssseeeennnneEEwSsNsNNssWeWWWwEwnwwssseeeennnneEnn
+# Med:   EeEwsnSnweWenwwssseeeennEensNNssWeWWWwEwnwwssseeeennnneEnn
+# Best:  EeEEEeNNssweWWWwEwweWensSnnwwssseeeennnneEnn
+###

@@ -1,0 +1,19 @@
+###
+# Title: Inverting
+# Level: 105
+# Hard:  0
+# Text1: Inverters swap blocks and empty spaces.
+# Text2: Move onto the inverter.
+# ~ Comments ~
+#
+|XX____|
+|_A____|
+|_____@|
+|......|
+|......|
+|@_____|
+|____B_|
+|____XX|
+# Par:   eeeessswwwwwssseeene
+# Best:  eseeesswwwwwseeees
+###

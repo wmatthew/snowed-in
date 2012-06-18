@@ -1,0 +1,15 @@
+###
+# Title: Retrieving
+# Level: 110
+# Hard:  0
+# Text1: You can get the block out of this dead end.
+# Text2: Push the block into the inverter to get it out.
+# ~ Comments ~
+#
+|X____XXXX|
+|X_A__.__@|
+|X____XXXX|
+|b_..@XXXX|
+# Par:   eeEEEeWWWWnwSesWWnwSeeeswwww
+# Best:  eeEEEeWWWWWWnwSSeeeswwww
+###

@@ -1,0 +1,16 @@
+###
+# Title: Koch
+# Level: 044
+# Hard:  4
+# ~ Comments ~
+#
+|XX@XXXX|
+|@.A.@XX|
+|XX.XX@X|
+|X___X.X|
+|X___._@|
+|X.b_X.X|
+|XXXXX@X|
+# Par:   SSesWnnnEeWeWWnSSSesEEeWWeNnSnSSeWeWWWWs
+# Best:  SSesWnnnEeWeWWnSSSesEEeWWeNnSnSSWWWs
+###

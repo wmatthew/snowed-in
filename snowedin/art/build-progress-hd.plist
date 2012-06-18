@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>build-arms.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{115, 219}, {296, 148}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -43}</string>
+			<key>spriteSize</key>
+			<string>{296, 148}</string>
+			<key>spriteSourceSize</key>
+			<string>{532, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{718, 2}, {296, 148}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>build-ball1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{151, 281}, {228, 214}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -138}</string>
+			<key>spriteSize</key>
+			<string>{228, 214}</string>
+			<key>spriteSourceSize</key>
+			<string>{532, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{334, 2}, {228, 214}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>build-ball2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{169, 181}, {194, 176}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -19}</string>
+			<key>spriteSize</key>
+			<string>{194, 176}</string>
+			<key>spriteSourceSize</key>
+			<string>{532, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{522, 218}, {194, 176}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>build-ball3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{173, 70}, {186, 186}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 87}</string>
+			<key>spriteSize</key>
+			<string>{186, 186}</string>
+			<key>spriteSourceSize</key>
+			<string>{532, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{334, 218}, {186, 186}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>build-buttons.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{257, 256}, {14, 78}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -45}</string>
+			<key>spriteSize</key>
+			<string>{14, 78}</string>
+			<key>spriteSourceSize</key>
+			<string>{532, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{334, 406}, {14, 78}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>build-carrot.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{251, 176}, {24, 34}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 57}</string>
+			<key>spriteSize</key>
+			<string>{24, 34}</string>
+			<key>spriteSourceSize</key>
+			<string>{532, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 474}, {24, 34}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>build-eyes.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{207, 134}, {114, 50}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 91}</string>
+			<key>spriteSize</key>
+			<string>{114, 50}</string>
+			<key>spriteSourceSize</key>
+			<string>{532, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{350, 406}, {114, 50}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>build-hat.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{189, 6}, {154, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 174}</string>
+			<key>spriteSize</key>
+			<string>{154, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{532, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{718, 152}, {154, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>build-joy.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{96, 24}, {330, 470}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -9}</string>
+			<key>spriteSize</key>
+			<string>{330, 470}</string>
+			<key>spriteSourceSize</key>
+			<string>{532, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {330, 470}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>build-mouth.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{249, 208}, {32, 16}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 34}</string>
+			<key>spriteSize</key>
+			<string>{32, 16}</string>
+			<key>spriteSourceSize</key>
+			<string>{532, 500}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{28, 474}, {32, 16}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+	</dict>
+</dict>
+</plist>

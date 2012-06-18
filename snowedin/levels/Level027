@@ -1,0 +1,19 @@
+###
+# Title: Partisan
+# Level: 027
+# Hard:  6
+# ~ Comments ~
+# Must make green path along right/top to win this one
+# TODO: make another level where you have to push a green block up to the NW inverter?
+|XXX@XXXX|
+|XXX_XXXX|
+|B@_.._XX|
+|._XA._.X|
+|.__X_..X|
+|___.__.X|
+|X._.__.@|
+|XXX_X_.X|
+|XXX@XXXX|
+# Par:   EssWWeSSsNNwnEseNNsesEnnnwwnwWwEww
+# Best:  EssWSSsNNwNEseNNsseEnnwnwnwWwEww
+###

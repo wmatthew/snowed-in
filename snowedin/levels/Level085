@@ -1,0 +1,20 @@
+###
+# Title: Alien
+# Level: 085
+# Hard:  6
+# ~ Comments ~
+# TODO: add back in two X spaces in top left and space below that
+#-----
+#-----
+|...@X.@XXX|
+|._X.X.XXX@|
+|..X....X..|
+|._X.__._..|
+|....__.XX.|
+|._X.....X.|
+|..XX..X@XB|
+|X_X.__X.XX|
+|X@X..@XAXX|
+# Par:   NnSnnwwsSswNNenennnwwwsssEsssenNNssswnnnwnEwnneeessWWswNNNsswwwnneSwsEEEnneeesswWswNNswwwssewnneeeeeenEEneSSnwwwsnnsswwNseNwwswwwsseNwnEEEEwwwwnnnneeesseeSSSSSsNswnnnnnEEEEneSwwwsWnwwsseNwnEEEEEwwwwssseNNwnEEEwwsssSsNNNNwnEEwwwswwwnnnneSSSwsEEEEEseNNwwwswwssSsNNNwnEEEEEseNwwwwwnnnneesseeeseeesss
+# Best:  NnSnnwwsSswNNenennnwwwsssEseSNNssswnnnwnEwnneeessWWswNNNsswwwnneSwsEEEnneeesEEneSSnwwwswWswNNseNseNswwwwwsseNwnEEEEwwwwnnnneeesseeSSSSSsNswnnnnnEEEEneSwwwsWnwwsseNwnEEEEEwwwwssseNNwnEEEwwsssSsNNNNwnEEwwwswwwnnnneSSSwsEEEEEseNwwwwwssSsNNNwnEEEEwwwnnnneesseeSeeeesss
+###

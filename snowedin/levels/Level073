@@ -1,0 +1,17 @@
+###
+# Title: Centipede
+# Level: 073
+# Hard:  5
+# ~ Comments ~
+#-----
+#-----
+|X..b..X|
+|.__X__X|
+|X_._._.|
+|.__A__X|
+|X_____.|
+|._____X|
+|X__@__.|
+# Par:   eennwSSSesWnwwwnnneSSSeSwWeeswNNeSWeswNwnEEnnwSwsEssenneEwwssenNsswnnEwsseennnWWeesswNenWssswnnnwWeessswnnNsssennnWessswwnnnnEEwwsseNwnEssssennnneEwwssssennnNsssswnnnnEnnw
+# Best:  eennwSSSesWnwwwnnneSSSeSwWeeswNNeSWeswNwnEEnnwSwsEssenneEwwssenNsswnnEwsseennnWWeesswNenWssswnnnwWeessswnnNsssennnWnNWnEE
+###

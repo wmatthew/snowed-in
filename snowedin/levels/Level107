@@ -1,0 +1,15 @@
+###
+# Title: Passing
+# Level: 107
+# Hard:  0
+# Text1: You can push blocks into inverters.
+# Text2: Push the block to pass through the inverter.
+# ~ Comments ~
+#
+|___XXXXXX|
+|_A_.__@__|
+|___XXXXX_|
+|XXXXB____|
+# Par:   nesEEEeeesswwww
+# Best:  eEEEeeesswwww
+###
