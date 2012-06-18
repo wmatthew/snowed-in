@@ -2,6 +2,12 @@
 # Git ignore file
 
 #########################
+# Deliberatly hiding proprietary squid library, cocos2d library, monetary transaction code
+SquidLib*
+Purchase*
+cocos2d*
+
+#########################
 # Partially edited files
 *.*~
 
