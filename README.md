@@ -1,14 +1,16 @@
 # We're Snowed In!
 
-We're Snowed In! is a single-player puzzle game for iPhone and iPad. The core game mechanic is similar to [Sokoban](https://en.wikipedia.org/wiki/Sokoban), with the addition of special tiles that invert every square, turning blocks to empty spaces and vice-versa. The goal of every level is to guide the main character (a snowman) to the exit (a white snowflake)
+We're Snowed In! is a single-player puzzle game for iPhone and iPad. The core game mechanic is similar to [Sokoban](https://en.wikipedia.org/wiki/Sokoban), with the addition of special tiles that invert every square, turning blocks to empty spaces and vice-versa. The goal of every level is to guide the main character (a snowman) to the exit (a white snowflake).
+
+<center> [Game Trailer](https://www.youtube.com/watch?v=map5AfHqwoQ) / [Gameplay Video](https://www.youtube.com/watch?v=WRV3uCAqYe8) </center>
 
 ![](readme/tutorial.png)
-> Image: Once the fuscia block is pushed to the bottom of the screen, the inverter (bottom left) will turn the six blocks into a path to the exit (bottom right).
+> Image: Once the snowman pushes the fuscia block to the bottom of the screen, the inverter (bottom left) will turn the six blocks into a path to the exit (bottom right).
 
 A primary design consideration was learnability; the inverting mechanic is a complex one and later levels are impossible to solve if the player cannot understand and predict what inverting will do many moves in advance. The game has a slow, steady learning curve that introduces strategies one by one and points users in the right direction. For later levels, a hint system lets users reveal parts of the solution to a difficult level.
 
 ![](readme/basic_map.png)
-> Image: A larger map. The path to the exit is blocked by a single block.
+> Image: A larger map. The path to the exit is blocked by a single block. VCR-style controls along the bottom of the screen let the user rewind and fast-forward through move history.
 
 The focus of a puzzle game should be mastering a unique mechanic, not avoiding risk. We're Snowed In! is built to reward exploration and experimentation. VCR-style controls let the user rewind and fast-forward through their move history, play back past progress and undo their way out of traps that would otherwise be fatal (or require restarting). Knowing that a safe state is just a tap or two away makes users comfortable and willing to try things.
 
@@ -21,7 +23,7 @@ As users complete the 104 levels, the world on the main menu screen changes: sno
 > Image: The 'world' of the game gathers snow as the user makes progress.
 
 ### Interesting Code
-If you just want to read some code, here are some interesting points to jump in.
+If you want to read some code, here are some interesting points to jump in.
 
 #### [GridLogicManager.m](https://github.com/wmatthew/snowed-in/blob/master/snowedin/GridLogicManager.m) (Obj-C)
 The core logic of the game, where entities are moved around and collision/interaction behavior is defined. Move history and undo/redo logic is also defined here. 
@@ -51,8 +53,8 @@ All code and art assets are by Matthew Webber unless otherwise noted.
 
 ### Related
 - [We're Snowed In! Game Trailer](https://www.youtube.com/watch?v=map5AfHqwoQ)
-- [Level Walkthrough: Snooze](https://www.youtube.com/watch?v=HaLCPn2PhIs)
-- [Level Walkthrough: Bishop](https://www.youtube.com/watch?v=WRV3uCAqYe8)
+- Level 8: "Snooze": [Video Walkthrough](https://www.youtube.com/watch?v=HaLCPn2PhIs) / [Source Code](https://github.com/wmatthew/snowed-in/blob/master/snowedin/levels/Level008)
+- Level 26: "Bishop": [Video Walkthrough](https://www.youtube.com/watch?v=WRV3uCAqYe8) / [Source Code](https://github.com/wmatthew/snowed-in/blob/master/snowedin/levels/Level026)
 - [This same writeup](http://m.atthe.ws/portfolio/snowedin), published on my portfolio.
   
 
