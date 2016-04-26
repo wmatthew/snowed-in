@@ -50,7 +50,10 @@ All code and art assets are by Matthew Webber unless otherwise noted.
 - Cocos2d by Ricardo Quesada (http://www.cocos2d-iphone.org)
 
 ### Related
-I've also published this writeup on my [portfolio](http://m.atthe.ws/portfolio/snowedin).
+- [We're Snowed In! Game Trailer](https://www.youtube.com/watch?v=map5AfHqwoQ)
+- [Level Walkthrough: Snooze](https://www.youtube.com/watch?v=HaLCPn2PhIs)
+- [Level Walkthrough: Bishop](https://www.youtube.com/watch?v=WRV3uCAqYe8)
+- [This same writeup](http://m.atthe.ws/portfolio/snowedin), published on my portfolio.
   
 
 
