@@ -15,7 +15,7 @@ A primary design consideration was learnability; the inverting mechanic is a com
 The focus of a puzzle game should be mastering a unique mechanic, not avoiding risk. We're Snowed In! is built to reward exploration and experimentation. VCR-style controls let the user rewind and fast-forward through their move history, play back past progress and undo their way out of traps that would otherwise be fatal (or require restarting). Knowing that a safe state is just a tap or two away makes users comfortable and willing to try things.
 
 ![](readme/level_menu.png)
-> Image: A menu showing four maps with associated difficulty levels.
+> Image: A menu showing four maps with associated difficulty levels. White backgrounds indicate finished levels.
 
 As users complete the 104 levels, the world on the main menu screen changes: snow falls more heavily, coating the hills and houses, and a snowman is built piece by piece. Particle effects, parallax backgrounds and an alluring score give this game a unique charm.
 
